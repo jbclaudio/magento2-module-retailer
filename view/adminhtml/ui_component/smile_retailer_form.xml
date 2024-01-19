@@ -59,6 +59,20 @@
                 </item>
             </argument>
         </field>
+        <field name="updated_at">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="visible" xsi:type="boolean">false</item>
+                </item>
+            </argument>
+        </field>
+        <field name="created_at">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="visible" xsi:type="boolean">false</item>
+                </item>
+            </argument>
+        </field>
         <field name="name">
             <argument name="data" xsi:type="array">
                 <item name="config" xsi:type="array">
